@@ -18,7 +18,6 @@
   --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
 
   /* BACKGROUND */
-  --background: rgb(10,21,116);
   --background: linear-gradient(108deg, rgba(10,21,116,1) 0%, rgba(68,23,128,1) 35%, rgba(104,24,97,1) 100%);
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
